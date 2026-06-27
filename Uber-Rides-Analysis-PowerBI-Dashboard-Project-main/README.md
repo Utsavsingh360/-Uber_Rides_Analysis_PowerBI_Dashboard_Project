@@ -54,4 +54,4 @@ This project presents an interactive Power BI dashboard developed to analyze Ube
 Analyze Uber ride data and extract actionable business insights.
 
 ## 👩‍💻 Author
-Samrudhi
+Utsav
