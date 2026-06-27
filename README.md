@@ -1,4 +1,4 @@
-<img width="1093" height="615" alt="dashboard2" src="https://github.com/user-attachments/assets/0e0e1fad-bea4-4c97-8d25-73556ceecb9b" /># Uber Rides Analysis Dashboard (Power BI)
+# Uber Rides Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard developed to analyze Uber ride data and extract actionable business insights.
